@@ -1,0 +1,44 @@
+.borderWho {
+    margin-top: 41px;
+    border-bottom: 4px solid #F38181;
+    margin-bottom: 46px;
+    width: 61px;
+    margin-left: 50%;
+}
+.whoText {
+    width: 941px;
+    text-align: center;
+    margin: 0 auto;
+    color: #999999;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+
+}
+
+.photo {
+    height: 471px;
+    width: 381px;
+    margin-bottom: 30px;
+}
+.areCont{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 91px;
+}
+.are {
+    text-align: center;
+}
+.profesion{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-style: italic;
+    margin-bottom: 145px;
+    color: #a6a6a6;;
+}
+.name {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    margin-bottom: 15px;
+    color: #666666;
+}
